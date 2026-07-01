@@ -1,1 +1,7 @@
 build/*
+CMakeFiles/
+.vscode
+*.cmake
+CMakeCache.txt
+Makefile
+pointcloud_to_2dmap

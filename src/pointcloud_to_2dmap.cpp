@@ -1,6 +1,7 @@
 #include <iostream>
 #include <boost/filesystem.hpp>
 #include <boost/program_options.hpp>
+#include <boost/make_shared.hpp>
 
 #include <opencv2/opencv.hpp>
 
